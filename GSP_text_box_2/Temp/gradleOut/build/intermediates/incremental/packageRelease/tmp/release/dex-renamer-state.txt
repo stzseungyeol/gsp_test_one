@@ -1,0 +1,4 @@
+#Thu Feb 03 17:32:41 KST 2022
+base.0=/Users/seungyeol.son/gsp_test_one/GSP_text_box_2/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
