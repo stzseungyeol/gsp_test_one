@@ -1,0 +1,94 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		12ADF1AE27ABE14000105A71 /* NativePlugin.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = NativePlugin.mm; sourceTree = "<group>"; };
+		12ADF1AF27ABE18B00105A71 /* UnityBridge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UnityBridge.h; sourceTree = "<group>"; };
+		12ADF1B027ABE19700105A71 /* NativePlugin.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NativePlugin.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		12ADF1A527ABE0E200105A71 = {
+			isa = PBXGroup;
+			children = (
+				12ADF1AC27ABE10800105A71 /* NativePlugin */,
+				12ADF1AD27ABE11600105A71 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		12ADF1AC27ABE10800105A71 /* NativePlugin */ = {
+			isa = PBXGroup;
+			children = (
+				12ADF1AE27ABE14000105A71 /* NativePlugin.mm */,
+				12ADF1AF27ABE18B00105A71 /* UnityBridge.h */,
+				12ADF1B027ABE19700105A71 /* NativePlugin.h */,
+			);
+			path = NativePlugin;
+			sourceTree = "<group>";
+		};
+		12ADF1AD27ABE11600105A71 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		12ADF1A627ABE0E200105A71 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1310;
+			};
+			buildConfigurationList = 12ADF1A927ABE0E200105A71 /* Build configuration list for PBXProject "NativePlugin" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 12ADF1A527ABE0E200105A71;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		12ADF1AA27ABE0E200105A71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		12ADF1AB27ABE0E200105A71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		12ADF1A927ABE0E200105A71 /* Build configuration list for PBXProject "NativePlugin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12ADF1AA27ABE0E200105A71 /* Debug */,
+				12ADF1AB27ABE0E200105A71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 12ADF1A627ABE0E200105A71 /* Project object */;
+}
